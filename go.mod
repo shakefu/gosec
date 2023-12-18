@@ -8,10 +8,10 @@ require (
 	github.com/nbutton23/zxcvbn-go v0.0.0-20210217022336-fa2cb2858354
 	github.com/onsi/ginkgo v1.16.4
 	github.com/onsi/gomega v1.14.0
-	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
+	golang.org/x/crypto v0.17.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
-	golang.org/x/text v0.3.6
-	golang.org/x/tools v0.1.4
+	golang.org/x/text v0.14.0
+	golang.org/x/tools v0.6.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
